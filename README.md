@@ -26,17 +26,23 @@ Durante la carrera desarrollé una formación técnica integral que combina teor
 
 ## Proyectos
 
-**Cinemarx — Proyecto académico** · Ene 2025
+**[halium-a045m](https://github.com/GaelSchenone/halium-a045m)**
+
+Port de GNU/Linux basado en Halium para el Samsung Galaxy A04 (SM-A045M, MediaTek MT6765). Reemplaza Android por un userspace de escritorio Linux real mediante libhybris, manteniendo el kernel y los HALs del fabricante.
+
+- Stack: Halium, libhybris, Shell
+
+**[Sasha Gala Portfolio](https://github.com/GaelSchenone/Sasha-Gala-Portfolio)**
+
+Portfolio de diseño gráfico con CMS full-stack. SPA en React 19 + Vite sobre una API REST en Flask, con panel de admin (Google OAuth/JWT), galerías por proyecto definidas en JSON, temas en tiempo de ejecución y gestión de medios con Cloudinary.
+
+- Stack: React 19, Vite, Flask, Cloudinary
+
+**[Cinemarx](https://github.com/GaelSchenone/CINEMARX) — Proyecto académico** · Ene 2025
 
 Lideré un equipo de 11 personas coordinando el desarrollo completo del sistema. Diseñé toda la interfaz en gestión de archivos y produje videos de capacitación de Git para el equipo.
 
 - Rol: Team Leader, Diseñador UX/UI, Desarrollador · Stack: Java, JavaFX/Swing, MySQL, Figma, Git, NetBeans
-
-**FashionMate — Proyecto académico** · Ene 2024
-
-Diseñé la interfaz de usuario en Figma y la implementé con Qt Designer. Colaboré en el desarrollo del algoritmo.
-
-- Rol: Diseñador UX/UI, Desarrollador · Stack: C++, Qt Designer, MySQL, Figma
 
 ## Habilidades
 

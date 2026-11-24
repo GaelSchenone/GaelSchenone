@@ -30,16 +30,19 @@ cv:
           - Centralizo reportes y genero informes automáticos por mail.
           - "Stack: n8n, Python, React JS, Power BI, Azure, Microsoft 365, Claude Code"
     Proyectos:
-      - name: Cinemarx — Proyecto académico
+      - name: "[halium-a045m](https://github.com/GaelSchenone/halium-a045m)"
+        summary: Port de GNU/Linux basado en Halium para el Samsung Galaxy A04 (SM-A045M, MediaTek MT6765). Reemplaza Android por un userspace de escritorio Linux real mediante libhybris, manteniendo el kernel y los HALs del fabricante.
+        highlights:
+          - "Stack: Halium, libhybris, Shell"
+      - name: "[Sasha Gala Portfolio](https://github.com/GaelSchenone/Sasha-Gala-Portfolio)"
+        summary: Portfolio de diseño gráfico con CMS full-stack. SPA en React 19 + Vite sobre una API REST en Flask, con panel de admin (Google OAuth/JWT), galerías por proyecto definidas en JSON, temas en tiempo de ejecución y gestión de medios con Cloudinary.
+        highlights:
+          - "Stack: React 19, Vite, Flask, Cloudinary"
+      - name: "[Cinemarx](https://github.com/GaelSchenone/CINEMARX) — Proyecto académico"
         date: 2025-01
         summary: Lideré un equipo de 11 personas coordinando el desarrollo completo del sistema. Diseñé toda la interfaz en gestión de archivos y produje videos de capacitación de Git para el equipo.
         highlights:
           - "Rol: Team Leader, Diseñador UX/UI, Desarrollador · Stack: Java, JavaFX/Swing, MySQL, Figma, Git, NetBeans"
-      - name: FashionMate — Proyecto académico
-        date: 2024-01
-        summary: Diseñé la interfaz de usuario en Figma y la implementé con Qt Designer. Colaboré en el desarrollo del algoritmo.
-        highlights:
-          - "Rol: Diseñador UX/UI, Desarrollador · Stack: C++, Qt Designer, MySQL, Figma"
     Habilidades:
       - label: Habilidades Técnicas
         details: HTML5/CSS3/JS (Avanzado), React JS (Intermedio), Python (Avanzado), Java (Básico), C (Intermedio), C++ (Intermedio), SQL (Avanzado), Google Workspace (Intermedio), Claude Code, OpenCode
@@ -73,6 +76,8 @@ design:
     bold:
       name: false
       section_titles: false
+  links:
+    underline: true
   header:
     alignment: left
     photo_position: right
