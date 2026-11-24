@@ -1,0 +1,92 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Gael Schenone
+  headline: Técnico en Computación
+  email: gael@schenone.com.ar
+  photo: photo_circular.png
+  social_networks:
+    - network: GitHub
+      username: GaelSchenone
+  sections:
+    Resumen:
+      - Técnico en Computación con orientación en diseño UX/UI y desarrollo front end. Manejo de tecnologías web modernas como HTML, CSS, JavaScript y React JS, junto con conocimientos en Python, Java/C++ y SQL. Enfocado en seguir creciendo profesionalmente, aplicar lo aprendido en proyectos reales y aportar soluciones concretas desde el primer día.
+    Education:
+      - institution: ETN3 María Sánchez de Thompson
+        area: Técnico en Computación
+        location: CABA, Argentina
+        start_date: 2021-03
+        end_date: present
+        summary: Durante la carrera desarrollé una formación técnica integral que combina teoría y práctica de laboratorio. Trabajé con arquitectura de computadoras, sistemas operativos Windows y Linux, redes LAN, diagnóstico de fallas de hardware/software, programación y documentación técnica.
+    Experiencia:
+      - company: Hipódromo de Palermo
+        position: Pasante — Área de Automatizaciones
+        location: CABA, Argentina
+        start_date: 2026-08
+        end_date: present
+        highlights:
+          - Automatizo procesos de distintas áreas para reducir tareas manuales.
+          - Diseño flujos de integración entre sistemas.
+          - Desarrollo APIs de integración y programo ejecuciones periódicas.
+          - Centralizo reportes y genero informes automáticos por mail.
+          - "Stack: n8n, Python, React JS, Power BI, Azure, Microsoft 365, Claude Code"
+    Proyectos:
+      - name: Cinemarx — Proyecto académico
+        date: 2025-01
+        summary: Lideré un equipo de 11 personas coordinando el desarrollo completo del sistema. Diseñé toda la interfaz en gestión de archivos y produje videos de capacitación de Git para el equipo.
+        highlights:
+          - "Rol: Team Leader, Diseñador UX/UI, Desarrollador · Stack: Java, JavaFX/Swing, MySQL, Figma, Git, NetBeans"
+      - name: FashionMate — Proyecto académico
+        date: 2024-01
+        summary: Diseñé la interfaz de usuario en Figma y la implementé con Qt Designer. Colaboré en el desarrollo del algoritmo.
+        highlights:
+          - "Rol: Diseñador UX/UI, Desarrollador · Stack: C++, Qt Designer, MySQL, Figma"
+    Habilidades:
+      - label: Habilidades Técnicas
+        details: HTML5/CSS3/JS (Avanzado), React JS (Intermedio), Python (Avanzado), Java (Básico), C (Intermedio), C++ (Intermedio), SQL (Avanzado), Google Workspace (Intermedio), Claude Code, OpenCode
+      - label: Idiomas
+        details: Español (Nativo), Inglés (Habla, Lectura y Escritura)
+      - label: Habilidades Blandas
+        details: Trabajo en equipo ★★★★☆, Colaboración ★★★☆☆, Resolución de problemas ★★★★☆, Liderazgo ★★★★★, Toma de decisiones ★★★★★
+design:
+  theme: classic
+  page:
+    size: a4
+  colors:
+    name: rgb(0, 0, 0)
+    headline: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+  typography:
+    font_family:
+      body: Inter
+      name: NType 82 Headline
+      headline: NType 82 Headline
+      connections: Inter
+      section_titles: NType 82 Headline
+    font_size:
+      body: 9pt
+      name: 30pt
+      headline: 8pt
+      connections: 8pt
+      section_titles: 1.3em
+    bold:
+      name: false
+      section_titles: false
+  header:
+    alignment: left
+    photo_position: right
+    photo_width: 3cm
+    space_below_name: 0.5cm
+    space_below_headline: 0.4cm
+  section_titles:
+    type: with_full_line
+    line_thickness: 0.5pt
+    space_above: 0.5cm
+    space_below: 0.15cm
+  templates:
+    top_note: '*LAST_UPDATED: CURRENT_DATE*'
+locale:
+  language: spanish
+  last_updated: Última actualización
+  present: actualidad
