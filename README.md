@@ -1,5 +1,3 @@
-<img src="photo_circular.png" width="140" align="right" alt="Gael Schenone">
-
 # Gael Schenone
 
 **Técnico en Computación** · [gael@schenone.com.ar](mailto:gael@schenone.com.ar)
